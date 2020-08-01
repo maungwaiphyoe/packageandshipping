@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Assigment1</string>
+    <string name="str1">1.50kg</string>
+    <string name="str2">weight/piece</string>
+    <string name="str3">20cm*15cm*10</string>
+    <string name="str4">size/piece</string>
+    <string name="str5">Ships out within 5day</string>
+    <string name="str6">Processing time</string>
+    <string name="str7">Ship Address</string>
+    <string name="str8">Delivery Method</string>
+    <string name="str9">Deliver times</string>
+    <string name="str10">Cost</string>
+    <string name="str11">Tracking Carrier</string>
+    <string name="str12">8-15 Days</string>
+    <string name="str13">Ks-5000</string>
+    <string name="str14">MGL-Delivery</string>
+    <string name="str15">5-10 Days</string>
+    <string name="str16">Ks-32000</string>
+    <string name="str17">DHL</string>
+    <string name="str18">Package &amp; Shipping</string>
+
+</resources>
